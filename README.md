@@ -22,9 +22,6 @@
 
 👤 **George Sucuzhanay**
 
-
-
-
 - Github: [@George-Sucuzhanay](https://github.com/George-Sucuzhanay)
 
 ## Show your support

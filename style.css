@@ -13,8 +13,7 @@ header {
     padding: 20px 5px;
     text-align: center;
 }
-header
-{
+header{
 	background-image: url("parkshero.png");
 	height: 750px;
 	background-size: cover;
