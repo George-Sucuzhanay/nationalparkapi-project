@@ -4,7 +4,7 @@
 let button = document.getElementById("myBtn").addEventListener('click', getText)
 
 function getText () {
-  fetch("https://developer.nps.gov/api/v1/parks?parkCode=acad&api_key=Xl9ulMh0BRyo7Q7dX2vUBdl5uadPjptgOHpnKRL5")
+  fetch("https://developer.nps.gov/api/v1/parks?parkCode=acad&api_key=YOUR_API_KEY")
     .then(response => {
       return (response.json())
     })
